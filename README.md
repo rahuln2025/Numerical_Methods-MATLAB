@@ -1,6 +1,13 @@
 # Numerical_Methods-MATLAB
 Assignment solutions and other MATLAB programs solved in the Coursera Course: Numerical Methods for Engineers
 
+## :mortar_board: Certificate
+https://coursera.org/share/89c8907be2a57f5d474d9899650de1d6
+
+![image](https://user-images.githubusercontent.com/28657501/152330209-59074f1e-3447-4faa-a683-93ebc5c27e91.png)
+
+--------
+
 ## Week 1: MATLAB basics
 * [_Bifurcation Diagram for the Logistic Map_](https://github.com/rahuln2025/Numerical_Methods-MATLAB/blob/a9cc80a30b3273936d7d05b8d1c14a3992a2bc81/Week_1/Ast1_Logistic_Map.m)
 * Solution Plot:
@@ -61,6 +68,8 @@ https://user-images.githubusercontent.com/28657501/152323770-68db05f9-6efb-43b7-
 * Solution Plot:
 
 https://user-images.githubusercontent.com/28657501/152328000-4709732b-e1ae-4e84-b5e2-a1f52f98f5dd.mp4
+
+
 
 
 
